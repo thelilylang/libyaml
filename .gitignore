@@ -43,3 +43,4 @@ stamp-h1
 /tests/test-reader
 /tests/test-version
 /dist/
+!src/config.h
