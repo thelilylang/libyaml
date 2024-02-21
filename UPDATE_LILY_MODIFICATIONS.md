@@ -4,9 +4,6 @@ Main commands to launch:
 
 ```sh
 git reset --hard master # on lily_modifications branch
-./bootstrap
-./configure
-mv include/config.h src
 mv include/yaml.h src
 echo "!src/config.h" >> .gitignore
 ```
