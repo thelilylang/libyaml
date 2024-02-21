@@ -5,7 +5,6 @@ Main commands to launch:
 ```sh
 git reset --hard master # on lily_modifications branch
 mv include/yaml.h src
-echo "!src/config.h" >> .gitignore
 ```
 
 Modification to be made to the `yaml_private.h` file.
